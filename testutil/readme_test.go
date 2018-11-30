@@ -1,5 +1,3 @@
-// This test should match the example in README.md.  If you make
-// changes here, please make the same changes there as well.
 package testutil_test
 
 import (
